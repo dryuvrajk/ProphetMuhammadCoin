@@ -1,4 +1,7 @@
+<img width="440" height="372" alt="prophet-muhammad" src="https://github.com/user-attachments/assets/806011e2-d88a-4067-9f62-5ded9ea6ed1d" />
+
 # Prophet Muhammad Coin – Noble (PMCN)  
+
 
 **Whitepaper and Halal Certification Repository**
 
@@ -36,18 +39,43 @@ Welcome to the official GitHub repository for the **Prophet Muhammad Coin – No
 * **Initial in INR:** ₹8948,34773,98,62,431 INR (In words: Eight Thousand Nine Hundred Forty Eight Lakh Thirty Four Thousand Seven Hundred Seventy Three Crores Ninety Eight Lakhs Sixty Two Thousand Four Hundred Thirty One) 
 * **Longterm Projected Floating Price:** $1,140,431 USD / 1 PMCN
 * **1 PMCN** = 126,274,693,495.42 WBNB
+* **Issuer(s):**	Noor Ul Haqq Foundation, Decima Islamic Foundation, Decima Technologies Saudi Arabia (Decima Technologies Pvt Ltd, IND)
+* **Vault Ownership:**	Dr. Yuvraj Kumar
+* **DEX Pair:**	PMCN / WBNB (PancakeSwap V2)
+* **Mother Wallet Address Link:**	https://bscscan.com/address/0x4bb46105313770045ab4a05c5518717ee36de4f3 
+* **Smart Contract Address Link:**	https://bscscan.com/token/0x28293a3500e303bd61aac87d483e4fb7969bf4d9 
+* **Smart Contract Source Code Verification Link:** https://bscscan.com/token/0x28293a3500e303bd61aac87d483e4fb7969bf4d9#code 
+* **Coingecko Link:**	https://www.geckoterminal.com/bsc/pools/0x635144770f3ed3e42e4d733c82538e21d1c8306d 
+* **Pancakeswap Link:** https://pancakeswap.finance/info/pairs/0x635144770f3ed3e42e4d733c82538e21d1c8306d 
+* **Dextools Link:** https://www.dextools.io/app/en/bnb/pair-explorer/0x635144770f3ed3e42e4d733c82538e21d1c8306d?t=1754048188607 
+* **ApeSpace Link:** https://apespace.io/bsc/0x635144770f3ed3e42e4d733c82538e21d1c8306d
+* **Vault:**	Trust Wallet
 
-* Issuer(s):	Noor Ul Haqq Foundation, Decima Islamic Foundation, Decima Technologies Saudi Arabia (Decima Technologies Pvt Ltd, IND)
-* Vault Ownership:	Dr. Yuvraj Kumar
-* DEX Pair:	PMCN / WBNB (PancakeSwap V2)
-* Mother Wallet Address Link:	https://bscscan.com/address/0x4bb46105313770045ab4a05c5518717ee36de4f3 
-* Smart Contract Address Link:	https://bscscan.com/token/0x28293a3500e303bd61aac87d483e4fb7969bf4d9 
-* Smart Contract Source Code Verification Link:	https://bscscan.com/token/0x28293a3500e303bd61aac87d483e4fb7969bf4d9#code 
-* Coingecko Link:	https://www.geckoterminal.com/bsc/pools/0x635144770f3ed3e42e4d733c82538e21d1c8306d 
-* Pancakeswap Link: https://pancakeswap.finance/info/pairs/0x635144770f3ed3e42e4d733c82538e21d1c8306d 
-* Dextools Link: https://www.dextools.io/app/en/bnb/pair-explorer/0x635144770f3ed3e42e4d733c82538e21d1c8306d?t=1754048188607 
-* ApeSpace Link: https://apespace.io/bsc/0x635144770f3ed3e42e4d733c82538e21d1c8306d
-* Vault:	Trust Wallet
+# Screenshots:
+
+## COINGECKO
+
+<img width="1912" height="935" alt="CoinGecko" src="https://github.com/user-attachments/assets/dd7779b9-ac0a-42b7-a7f2-6f254eac8954" />
+
+---
+## APESPACE
+
+<img width="2454" height="1263" alt="ApeSpace" src="https://github.com/user-attachments/assets/57ceec32-8169-4734-8b0d-deafaf92e864" />
+
+---
+## PANCAKESWAP V2
+
+<img width="1835" height="940" alt="PancakeSwap V2" src="https://github.com/user-attachments/assets/e5b2ed16-5a63-4031-9ae5-80a9eeb4285b" />
+
+---
+## SMART CONTRACT VERIFIED ON BSC SCAN 
+
+<img width="1891" height="936" alt="Contract Verified" src="https://github.com/user-attachments/assets/614b9639-ed41-4e69-a07e-33f1eccbe99c" />
+
+---
+## HIGHLEVEL CONTRACT SUMMARY
+
+<img width="1886" height="661" alt="Highlevel Summary" src="https://github.com/user-attachments/assets/df237811-f85d-492a-87b1-1b874afd2654" />
 
 ---
 
